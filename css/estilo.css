@@ -6,7 +6,7 @@
 
 html {
     scroll-behavior: smooth;
-    scrollbar-width: none;
+
 }
 
 body {
@@ -51,6 +51,7 @@ h1.fill-animation::before {
 .container {
     max-width: 1200px;
     margin: auto;
+
 }
 
 /* Menu inicio */

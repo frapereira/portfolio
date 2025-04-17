@@ -6,6 +6,8 @@
         padding: 0;
 
     }
+
+
     #menu-bar {
         display: block;
         align-items: center;
@@ -123,6 +125,13 @@
 
     #about p {
         line-height: 28px;
+    }
+    
+    .imagem img {
+        margin-top: 20px;
+        align-items: center;
+        border-radius: 50%;
+        width: 230px;      
     }
   
     .skill > div {
